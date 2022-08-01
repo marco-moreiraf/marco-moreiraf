@@ -14,7 +14,7 @@
 <p>Hello there, I'm Marco! Control and automation engineer, passionate about technology and currently working as full stack developer, focused on blockchain projects.</p>
 
 ###
-<h2 align="justify">💻 Technologies</h2>
+<h4 align="justify">💻 Things I code with</h4>
 
 <div>
   <img src="https://img.shields.io/badge/GO-00ADD8?style=flat&logo=go&logoColor=white" />
