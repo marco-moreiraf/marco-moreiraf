@@ -33,13 +33,5 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 </div>
 
-###
-<h2 align="justify">⚡ Stats</h2>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=marco-moreiraf&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marco-moreiraf&layout=compact&theme=dark" /> -->
-</div>
-
 ##
 <p align="right">🤖 This is the way!</p>
