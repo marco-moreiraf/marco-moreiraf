@@ -1,6 +1,6 @@
 <h2 align="justify"> 🌎 Hello, world! </h1>
 
-<div>
+<!--<div>
   <a href="https://github.com/marco-moreiraf"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/marco-moreiraf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/marco-moreiraf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
@@ -8,10 +8,10 @@
   <a href="https://github.com/marco-moreiraf"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"></a>
   <a href="https://github.com/marco-moreiraf"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"></a>
   <a href="https://github.com/marco-moreiraf"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"></a>
-</div>
+</div>-->
 
 ###
-<p>Hello there, I'm Marco! Control and automation engineer, passionate about technology and currently working as full stack developer, focused on blockchain projects.</p>
+<p>Hello there, I'm Marco! Control and automation engineer, passionate about technology and currently working as software engineer, focused on blockchain projects.</p>
 
 ###
 <h4 align="justify">💻 Things I code with</h4>
@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />-->
 </div>
 
 ##
